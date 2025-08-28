@@ -28,7 +28,7 @@ I’ve also been exploring other fields, such as:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="48" title="Mojo (placeholder)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/generic/generic-original.svg" width="48" title="Mojo (placeholder)" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=html" />
@@ -36,9 +36,8 @@ I’ve also been exploring other fields, such as:
   <img src="https://skillicons.dev/icons?i=kotlin" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="48" title="ASM (placeholder)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpu/cpu-original.svg" width="48" title="ASM (placeholder)" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
-
