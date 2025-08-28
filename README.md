@@ -28,7 +28,7 @@ I’ve also been exploring other fields, such as:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/generic/generic-original.svg" width="48" title="Mojo (placeholder)" />
+  <img src="https://www.remobi.co/hubfs/fire%20emoji-Jun-29-2023-02-04-41-7966-PM.png" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=html" />
@@ -36,7 +36,7 @@ I’ve also been exploring other fields, such as:
   <img src="https://skillicons.dev/icons?i=kotlin" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpu/cpu-original.svg" width="48" title="ASM (placeholder)" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZc9IUUOfzGm_bfTmQfqSpKMxpiHx1LSB_g&s" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=git" />
