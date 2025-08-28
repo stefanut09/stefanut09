@@ -16,7 +16,8 @@ I’ve also been exploring other fields, such as:
 
 ### 🌱 What I’m working on
 - Improving my skills in **HTML, CSS & JavaScript** to build my personal portfolio website.  
-- Preparing to learn the **MERN stack** (MongoDB, Express, React, Node.js) to develop a fullstack application.  
+- Preparing to learn the **MERN stack** (MongoDB, Express, React, Node.js) to develop a fullstack application.
+- After mastering the MERN stack, I plan to explore Java, TypeScript, and Rust/Nil/Go/GDScript to expand my programming versatility.
 
 ### 🤝 Collaboration
 - I’m open to collaborate on **any kind of project**.  
@@ -27,7 +28,6 @@ I’ve also been exploring other fields, such as:
 ---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://www.remobi.co/hubfs/fire%20emoji-Jun-29-2023-02-04-41-7966-PM.png" width="40" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=html" />
@@ -35,11 +35,7 @@ I’ve also been exploring other fields, such as:
   <img src="https://skillicons.dev/icons?i=kotlin" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZc9IUUOfzGm_bfTmQfqSpKMxpiHx1LSB_g&s" width="40" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://www.modular.com/favicon.ico" width="40" />
-  <img src="https://icons8.com/icons/set/assembly-language" width="40" />
 </p>
-
