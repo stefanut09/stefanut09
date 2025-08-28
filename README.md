@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello there 👋  
 
-<!--
-**stefanut09/stefanut09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **self-taught programmer**.  
+My best skills are in creating software with **Python, Node.js, and Kotlin**.  
 
-Here are some ideas to get you started:
+I’ve also been exploring other fields, such as:  
+- Machine Learning & AI  
+- Cybersecurity  
+- DevOps  
+- Frontend Development  
+- Cloud Computing  
+- Data Science  
+- Software Architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What I’m working on
+- Improving my skills in **HTML, CSS & JavaScript** to build my personal portfolio website.  
+- Preparing to learn the **MERN stack** (MongoDB, Express, React, Node.js) to develop a fullstack application.  
+
+### 🤝 Collaboration
+- I’m open to collaborate on **any kind of project**.  
+
+### ❓ Looking for help
+- I’d love guidance on how to **set up and manage GitHub repositories**, since I’m still learning how it works.  
+
+---
+
+![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,html,css,kotlin,cpp,c,asm,bash,sql,git)
