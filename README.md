@@ -8,22 +8,19 @@ I’ve also been exploring other fields, such as:
 - Cybersecurity  
 - DevOps  
 - Frontend Development  
-- Cloud Computing  
-- Data Science  
 - Software Architecture  
 
 ---
 
 ### 🌱 What I’m working on
-- Improving my skills in **HTML, CSS & JavaScript** to build my personal portfolio website.  
-- Preparing to learn the **MERN stack** (MongoDB, Express, React, Node.js) to develop a fullstack application.
-- After mastering the MERN stack, I plan to explore Java, TypeScript, and Rust/Nil/Go/GDScript to expand my programming versatility.
+- Currently learning and improving my skills in React.
+- Building my personal portfolio website with **HTML, CSS & JavaScript**.  
+- Learning **MERN stack** (MongoDB, Express, React, Node.js) to develop a fullstack application.
+- After mastering the MERN stack, I plan to explore Java or TypeScript to expand my programming versatility.
 
 ### 🤝 Collaboration
-- I’m open to collaborate on **any kind of project**.  
+- I’d love to collaborate on **any kind of project**.  
 
-### ❓ Looking for help
-- I’d love guidance on how to **set up and manage GitHub repositories**, since I’m still learning how it works.  
 
 ---
 <p align="center">
